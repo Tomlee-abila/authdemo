@@ -38,7 +38,7 @@ A complete JWT-based authentication system built with Spring Boot 3, Spring Secu
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Tomlee-abila/authdemo.git
 cd authdemo
 ```
 
